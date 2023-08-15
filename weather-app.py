@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "aa799c2b049a5a614c96bffb10b1f7ef"
+API_KEY = ""
 URL = "http://api.weatherstack.com/current"
 
 
